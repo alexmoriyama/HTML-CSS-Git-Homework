@@ -25,19 +25,22 @@ body {
   color: #d9dcd6;
 }
 
-.header div {
+/* Switched from div to nav */
+.header nav {
   padding-top: 15px;
-  margin-right: 20px;
+  margin-right: 10px;
   float: right;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   font-size: 20px;
 }
 
-.header div ul {
+/* Switched from div to nav */
+.header nav ul {
   list-style-type: none;
 }
 
-.header div ul li {
+/* Switched from div to nav */
+.header nav ul li {
   display: inline-block;
   margin-left: 25px;
 }
