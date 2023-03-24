@@ -13,12 +13,15 @@
 
 * Changed the title element to provide a clearer and concise title.
 
+---
+
 ## Mock-Up
 
 ![Attached is a screenshot of the website](assets/images/website-screenshot.png)
 
 [Here](https://alexmoriyama.github.io/Horiseon-Site-Refactoring) is the site link.
 
+---
 
 ### Mentions
   Thank you to my TA's and my tutor for navigating the best methods for refactoring the site.
